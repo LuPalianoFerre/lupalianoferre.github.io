@@ -1,0 +1,6 @@
+@font-face {
+    font-family: "Montserrat-TikTok";
+    src: url("Fuentes/Montserrat\,TikTok_Sans.ttf") format("truetype");
+    font-weight: 100;
+}
+/* decirle el format "truetype" es para aclararle el tipo de formato al navegador, para que cargue más rápido. 

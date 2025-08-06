@@ -1,0 +1,104 @@
+body {
+    background-color: rgb(43, 41, 41);
+    color: pink; 
+    font-family: Montserrat;
+    font-size: 20px;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    align-items: center;
+}
+
+header {
+text-align: center;
+background-color: wheat;
+color: black;
+font-size: 30px;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+border-radius: 15rem;
+}
+
+td {
+    column-width: 150px;
+}
+
+.lista_de_exp {
+text-align: left;
+}
+
+.enlaces {
+    text-align: center;
+    color: aquamarine !important;
+}
+
+.refes {
+display: flex;
+justify-content: center;  
+align-items: center; 
+text-align: left;
+}
+
+.title {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.formulario {
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.input_form {
+    width: 500px;
+}
+
+#cons_pers {
+    padding: 20px;
+    text-align: center;
+}
+
+#nom, #emp, #cont {
+    background-color: whitesmoke;
+    width: 10rem;
+    text-align: center;
+    color: black;
+}
+
+#empresa {
+    text-align: left;
+}
+
+#datos_personales {
+    background-color: rgb(243, 200, 234);
+    color: rgb(90, 72, 72) !important;
+    width: 500px;
+    height: 13em;
+    margin: auto;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    border-radius: 45px;
+    justify-content: space-between;
+    display: flex;
+    }
+
+#datos_personales img {
+    max-height: 13em ;
+    }
+
+#formacion_list {
+list-style-position: inside; /*pa que queden los puntitos de la lista al lado del texto */
+text-align: center;
+line-height: 60px; /* espaciado entre lineas */
+}
+
+
+footer {
+text-align: center;
+background-color: rgb(46, 44, 40);
+color: black;
+font-size: 30px;
+padding: 30px;
+}
+
+
+
